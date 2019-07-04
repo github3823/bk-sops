@@ -1,3 +1,4 @@
 #!/bin/bash
 python manage.py migrate
 python manage.py createcachetable django_cache
+1111
